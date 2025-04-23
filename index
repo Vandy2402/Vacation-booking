@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+            <h1>Vacations Booking<h1>
+        </header>
+        <nav>
+            <a href="">Home</a>
+            <a href="">Places</a>
+            <a href="">Packages</a>
+            <a href="">gallery</a>
+            <a href="">contact</a>
+        </nav>
+        <section class="home-section">
+            <h1>Enjoy the Holidays</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae, cum, dolor doloribus ducimus eius illo, impedit itaque magnam porro qui quod reprehenderit. Optio quaerat, quam repudiandae sint suscipit voluptate voluptatum.</p>
+            <button class="button">book now</button>
+        </section >
+        <section class="places-section">
+            <h1>Places to visit</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam aliquid beatae consectetur, delectus dolorum error exercitationem incidunt ipsa iure iusto laudantium porro provident saepe sapiente sint velit voluptatem voluptates! Omnis.</p>
+            <img src="pexels-alleksana-3922943.jpg" alt="">
+            <img src="pexels-earth-photart-2149767641-31682138.jpg" alt="">
+            <img src="pexels-earth-photart-2149767641-31682156.jpg" alt="">
+            <img src="pexels-memea94-31733073.jpg" alt="">
+            <img src="pexels-pixabay-163168.jpg">
+            <img src="pexels-quang-nguyen-vinh-222549-2161449.jpg">
+        </section>
+        <section class="our-packages">
+            <h1>Our Packages</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab commodi, deleniti, dolor dolores fugiat fugit iste, iure obcaecati quasi quidem reiciendis repudiandae temporibus totam? Culpa deleniti ipsa ipsum ratione sunt.</p>
+            <div>
+                <figure>
+                    <img src="pexels-quang-nguyen-vinh-222549-2161449.jpg">
+                    <figcaption>
+                        Paris
+                    </figcaption>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error facilis possimus unde? Accusantium distinctio eaque fugit laudantium libero magnam magni maxime nihil nobis nulla pariatur perferendis quasi sapiente voluptas, voluptates.</p>
+                    <figcaption>50000</figcaption>
+                    <button class="button">book now</button>
+                </figure>
+            </div>
+            <div>
+                <figure>
+                    <img src="pexels-pixabay-163168.jpg">
+                    <figcaption>
+                        Paris
+                    </figcaption>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error facilis possimus unde? Accusantium distinctio eaque fugit laudantium libero magnam magni maxime nihil nobis nulla pariatur perferendis quasi sapiente voluptas, voluptates.</p>
+                    <figcaption>50000</figcaption>
+                    <button class="button">book now</button>
+                </figure>
+                <div>
+                    <figure>
+                        <img src="pexels-alleksana-3922943.jpg">
+                        <figcaption>
+                            Paris
+                        </figcaption>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error facilis possimus unde? Accusantium distinctio eaque fugit laudantium libero magnam magni maxime nihil nobis nulla pariatur perferendis quasi sapiente voluptas, voluptates.</p>
+                        <figcaption>50000</figcaption>
+                        <button class="button">book now</button>
+                    </figure>
+                </div>
+
+                <div>
+                    <figure>
+                        <img src="pexels-quang-nguyen-vinh-222549-2161467.jpg" alt="">
+                        <figcaption>
+                            Paris
+                        </figcaption>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error facilis possimus unde? Accusantium distinctio eaque fugit laudantium libero magnam magni maxime nihil nobis nulla pariatur perferendis quasi sapiente voluptas, voluptates.</p>
+                        <figcaption>50000</figcaption>
+                        <button class="button">book now</button>
+                    </figure>
+                </div>
+
+            </div>
+        </section>
+
+</body>
+
+</html>
+
+
